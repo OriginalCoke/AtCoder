@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class BC127_A {
     //Ferris Wheel
